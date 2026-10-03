@@ -60,6 +60,7 @@ Welcome to contribute and discuss!
 
 ##  1. <a name='Survey'></a>📚 Survey 
 - **Mapping the Emerging Social Science of Large Language Models**, arXiv, 2026.09, [[paper]](https://arxiv.org/abs/2609.07598).
+- **LLM Agents: A Survey**, Preprints.org, 2026.08, [[paper]](https://www.preprints.org/manuscript/202608.0265/v1), [[repo]](https://github.com/js-lee-AI/awesome-llm-agent-papers).
 - ⭐️ **Large Language Model Psychometrics: A Systematic Review of Evaluation, Validation, and Enhancement**, 2025.05, [[paper]](https://arxiv.org/abs/2505.08245).
 - **Missing the Margins: A Systematic Literature Review on the Demographic Representativeness of LLMs**, ACL 2025, [[paper]](https://aclanthology.org/2025.findings-acl.1246/), [[collection]](https://github.com/Indiiigo/LLM_rep_review).
 - **Large language models (LLM) in computational social science: prospects, current state, and challenges**, 2025.03, Social Network Analysis and Mining, [[paper]](https://link.springer.com/article/10.1007/s13278-025-01428-9).
